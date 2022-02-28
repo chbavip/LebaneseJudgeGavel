@@ -18,7 +18,8 @@ The application implements the following functionalities:
 -	Keyboard Interaction
 -	Computer Animation (2D, 3D)
 The remaining of this report is organized as follows; section 2 analyzes the need for this project and specifies the business rules. Section 3 elaborates on the project implementation while section 4 concludes this report.
- 
+
+
 2- BUSINESS RULES:
 This section discusses the business rules specifying the project’s aims. The business requirements are relatively straightforward and can be divided into 7 requirements:
 1.	Draw the main objects (“Lebanese Flag” (2D & 3D), “Judge’s Gavel”, “Judge’s Block”).
